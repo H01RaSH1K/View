@@ -1,6 +1,6 @@
 {
   "name": "com.anhertis.view",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "displayName": "View",
   "unity": "2022.3",
   "dependencies": {
